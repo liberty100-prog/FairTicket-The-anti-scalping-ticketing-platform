@@ -1,6 +1,6 @@
 ## Paras Jadhav — Database Design & Core Backend
 
-**Files:** `schema.sql` (partial), `seed.sql`, `server.js` (partial), `.env.example`
+**Files:** `schema.sql` (partial), `seed.sql`, `server.js` (partial), `.env.example`, `frontend/style.css`,
 
 ### Responsibilities:
 - Designed the full **MySQL database schema** — `users`, `events`, `seats`, `tickets`, `seat_locks`, `login_attempts`, `ticket_scan_logs`, `resale_market`, `ticket_queue` tables
