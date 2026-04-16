@@ -1,4 +1,4 @@
-## Pranav Bhoj — Frontend (SPA) and Database Design
+## L009 Pranav Bhoj — Frontend (SPA) and Database Design
 
 **Files:** `frontend/index.html`, `frontend/app.js` (partial), `schema.sql` (partial)
 
