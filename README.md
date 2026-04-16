@@ -49,8 +49,10 @@ Ticketing System/
     ├── index.html     # Single-page app entry point
     ├── app.js         # Frontend SPA logic
     └── style.css      # Styles
+```
 
 ---
+
 
 ---
 
@@ -61,4 +63,3 @@ Ticketing System/
 | Paras Jadhav |
 | Pranav Bhoj |
 | Aryan Gurav |
-
