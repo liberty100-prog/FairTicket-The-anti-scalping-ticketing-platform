@@ -1,4 +1,4 @@
-## L078 Aryan Gurav — Anti-Scalping Features & Admin Panel
+##  Aryan Gurav — Anti-Scalping Features & Admin Panel
 
 **Files:** `server.js` (partial), `frontend/app.js` (partial)
 
