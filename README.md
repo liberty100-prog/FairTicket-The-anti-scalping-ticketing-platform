@@ -52,8 +52,4 @@ Ticketing System/
 
 ---
 
-This is group project consisting of members:
-1. Paras Jadhav
-2. Pranav Bhoj
-3. Aryan Gurav
 
