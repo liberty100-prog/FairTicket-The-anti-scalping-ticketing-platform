@@ -1,4 +1,4 @@
-## Paras Jadhav — Database Design & Core Backend
+## L022 Paras Jadhav — Database Design & Core Backend
 
 **Files:** `schema.sql` (partial), `seed.sql`, `server.js` (partial), `.env.example`, `frontend/style.css`,
 
