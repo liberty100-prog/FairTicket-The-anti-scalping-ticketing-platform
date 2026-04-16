@@ -7,9 +7,14 @@ Built as a DBMS course project. Designed around real-world problems that plague 
 The Problem
 Every time a World Cup final, IPL playoff, or major concert goes on sale, three things happen within minutes:
 
-Bots bulk-buy thousands of tickets before humans can
-Scalpers relist the same tickets at 5–10× the original price
-Servers crash under the sudden spike of millions of simultaneous requests
+1. Bots bulk-buy thousands of tickets before humans can.
+2. Scalpers relist the same tickets at 5–10× the original price.
+3. Servers crash under the sudden spike of millions of simultaneous requests
 
 FairTicket is a backend-first solution to all three.
+
+This is a group project among the following members: 
+1. Paras Jadhav
+2. Pranav Bhoj
+3. Aryan Gurav
 
