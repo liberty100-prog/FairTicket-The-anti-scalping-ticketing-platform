@@ -1,6 +1,6 @@
 ## Pranav Bhoj — Frontend (SPA)
 
-**Files:** `frontend/index.html`, `frontend/style.css`, `frontend/app.js` (partial)
+**Files:** `frontend/index.html`, `frontend/app.js` (partial)
 
 ### Responsibilities:
 - Built the entire **Vanilla JS Single-Page Application** — routing, state management, auth flow
