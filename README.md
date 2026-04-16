@@ -51,8 +51,6 @@ Ticketing System/
     └── style.css      # Styles
 ```
 
----
-
 
 ---
 
