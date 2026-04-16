@@ -52,4 +52,13 @@ Ticketing System/
 
 ---
 
+---
+
+## 👨‍💻 Team
+
+| Name |
+|---|
+| Paras Jadhav |
+| Pranav Bhoj |
+| Aryan Gurav |
 
